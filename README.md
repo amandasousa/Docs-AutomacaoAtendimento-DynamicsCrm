@@ -1,5 +1,8 @@
 # Canal de Atendimento ao Cliente automático
 ## Projeto realizado no Microsoft Dynamics CRM 2011
+> Autor: Amanda Sousa </br>
+> Toda a documentação contida nesse repositório foi preparada ou revisada por mim. </br>
+
 Este repositório trata-se da criação de uma feature que faz a automação e centralização do atendimento ao cliente (escolas) dentro do Microsoft Dynamics CRM 2011.
 
 Quando o cliente entra em contato via e-mail, é verificado se o remetente já pertence a um cliente, a partir daí é gerado automaticamente um registro dessa comunicação e uma ocorrência com essa troca de e-mails. 
