@@ -4,15 +4,16 @@ Este repositório trata-se da criação de uma feature que faz a automação e c
 
 Quando o cliente entra em contato via e-mail, é verificado se o remetente já pertence a um cliente, a partir daí é gerado automaticamente um registro dessa comunicação e uma ocorrência com essa troca de e-mails. 
 
-- Essa feature resolve um problema do solicitante:
+Essa feature resolve uma dor do solicitante:
  - Todos os e-mails enviados pelo cliente caem na mesma caixa, exemplo: atendimento@cliente.com.br.
  - Todos os assessores vêem todos os e-mails da caixa, indiferente se aquele cliente é da sua carteira ou não.
-- O objetivo principal da melhoria é:
+ 
+ O objetivo da melhoria é:
  - Filtrar os e-mails recebidos para que cada assessor veja somente os e-mails dos seus clientes. 
  - Fazer a conexão entre Ocorrências, Telefonemas e E-mail recebidos.
  - Histórico de mensagens trocadas com a escola.
 
-- Requisitos técnicos que foram utilizados nessa feature:
+Requisitos técnicos que foram utilizados nessa feature:
  - Criação e configuração de Perfil Servidor Exchange
  - Criação de fila 
  - Criação de entidades custom
